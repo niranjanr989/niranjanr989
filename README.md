@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niranjan Reddy
 - 👀 I’m interested in Web development and desiging
-- 🌱 I’m currently learning Angualr to fullest
+- 🌱 I’m currently exporing designing and security
 - 💞️ I’m looking to collaborate on builing websites
 - 📫 How to reach me - niranjanr989@gmail.com
 
